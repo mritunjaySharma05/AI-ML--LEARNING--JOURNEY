@@ -30,8 +30,10 @@ I'm following a structured 3–4 month roadmap to become job-ready, dedicating 2
 
 Coming soon! As I complete concepts, I’ll start building mini-projects like:
 - Linear Regression from Scratch
+- Spam Mail Dectector 
 - Titanic Survival Prediction
 - Image Classifier using CNN
+- Movie Recommendation System
 - And more...
 
 ---
