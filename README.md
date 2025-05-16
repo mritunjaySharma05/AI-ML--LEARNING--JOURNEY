@@ -1,5 +1,3 @@
-# AI-ML--LEARNING--JOURNEY
-My AI/ML journey with daily notes and projects 
 # My AI/ML Learning Journey
 
 Hi! I'm **Mritunjay Sharma**, a BCA student from Himachal Pradesh, starting my journey to become an AI/ML engineer.  
