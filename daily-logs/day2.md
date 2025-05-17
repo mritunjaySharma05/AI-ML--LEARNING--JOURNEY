@@ -22,9 +22,13 @@ Today I explored Python fundamentals that are essential for AI and machine learn
 Python is beginner-friendly and powerful. Understanding these basics gives me the confidence to move ahead with libraries like NumPy and Pandas. Looking forward to tomorrow’s deep dive!
 
 ---
-## Additional Resources 
+
+## Additional Resources
+
 *Note: My detailed notes and code for Day 2 are available in the [day2_notes](day2notes.ipynb) file.*
+
 ---
+
 ## Keywords
 
 Python, variables, strings, lists, dictionaries, loops, functions
