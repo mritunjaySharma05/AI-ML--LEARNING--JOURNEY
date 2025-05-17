@@ -10,7 +10,7 @@ I'm following a structured 3–4 month roadmap to become job-ready, dedicating 2
 ## Daily Learning Log
 
 - [Day 1 – Basics of AI, ML & Deep Learning](daily-logs/day1.md)
-- Day 2 – Coming soon...
+- [Day 2 – Basics of pyhton (variables,strings,lists,dictionary,loops,function](daily-logs/day2.md)
 - Day 3 – Coming soon...
 
 *(This list will keep growing as I move forward!)*
