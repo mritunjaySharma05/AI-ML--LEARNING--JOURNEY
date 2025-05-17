@@ -23,7 +23,7 @@ Python is beginner-friendly and powerful. Understanding these basics gives me th
 
 ---
 ## Additional Resources 
-*Note: My detailed notes and code for Day 2 are available in the [`day2_notes.ipynb`](daily-logs/day2notes.ipynb) file.*
+*Note: My detailed notes and code for Day 2 are available in the [`day2_notes`](daily-logs/day2notes.ipynb) file.*
 
 ## Keywords
 
