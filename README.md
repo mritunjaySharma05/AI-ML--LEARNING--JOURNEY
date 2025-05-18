@@ -51,4 +51,4 @@ Let’s learn, build, and grow together!
 ## Connect with Me
 
 - [Twitter/X](https://x.com/Mritunjay__05) 
-- [LinkedIn](www.linkedin.com/in/mritunjay-sharma05)
+- [LinkedIn](https://www.linkedin.com/in/mritunjay-sharma05)
