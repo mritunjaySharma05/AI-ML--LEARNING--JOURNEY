@@ -25,7 +25,6 @@ Today I revised some core Python concepts and started learning **NumPy**, one of
 - **Array of Ones**: `np.ones()` creates an array filled with 1s.
 - **Reshape**: Changes the shape of an array without changing its data.
 - **Random Values**: `np.random.rand()` generates random numbers.
-- **Array Indexing**: Accessing elements, slices, and modifying data.
 
 ---
 
