@@ -23,7 +23,7 @@ I'm following a structured 3–4 month roadmap to become job-ready, dedicating 2
 
 - [Coursera – Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [Kaggle – Datasets & Competitions](https://www.kaggle.com/)
-- [YouTube – Krish Naik, StatQuest, freeCodeCamp]
+- [YouTube – Krish Naik, StatQuest, freeCodeCamp, CodewithHarry]
 - Python Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
 
 ---
