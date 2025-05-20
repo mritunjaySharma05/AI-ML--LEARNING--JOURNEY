@@ -7,6 +7,17 @@ I'm following a structured 3–4 month roadmap to become job-ready, dedicating 2
 
 ---
 
+## Python Libraries I’m Learning
+
+I’m learning and using important Python libraries that are essential for AI/ML:
+
+- [**NumPy**](#) – For numerical operations and matrix manipulation *(notebook coming soon)*  
+- [**Pandas**](pandas.ipynb) – For data handling, cleaning, and analysis  
+- [**Matplotlib / Seaborn**](#) – For data visualization *(coming soon)*  
+- [**Scikit-learn**](#) – For ML algorithms *(upcoming)*
+
+---
+
 ## Daily Learning Log
 
 - [Day 1 – Basics of AI, ML & Deep Learning](daily-logs/day1.md)
