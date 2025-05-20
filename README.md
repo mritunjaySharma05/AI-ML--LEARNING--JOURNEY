@@ -13,7 +13,8 @@ I'm following a structured 3–4 month roadmap to become job-ready, dedicating 2
 - [Day 2 – Basics of pyhton (variables,strings,lists,dictionary,loops,function](daily-logs/day2.md)
 - [Day 3 – Pyhton Recap + Numpy Basics ](daily-logs/day3.md)
 - [Day 4 - NumPy Indexing, Slicing & Operations](daily-logs/day4.md)
--  Day 5 - coming soon...... 
+- [Day 5 - Pandas: Data Handling for ML](daily-logs/day5.md)
+-  Day 6 - coming soon...... 
 
 *(This list will keep growing as I move forward!)*
 
