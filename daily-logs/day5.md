@@ -35,4 +35,4 @@ Pandas makes data handling intuitive and efficient. Understanding how to manipul
 
 ## Notebook
 
-My full code practice is saved in [`day5.ipynb`](day5.ipynb).
+My full code practice is saved in [`day5.ipynb`](day5notes.ipynb).
