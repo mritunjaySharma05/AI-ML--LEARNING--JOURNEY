@@ -25,7 +25,8 @@ I’m learning and using important Python libraries that are essential for AI/ML
 - [Day 3 – Pyhton Recap + Numpy Basics ](daily-logs/day3.md)
 - [Day 4 - NumPy Indexing, Slicing & Operations](daily-logs/day4.md)
 - [Day 5 - Pandas: Data Handling for ML](daily-logs/day5.md)
--  Day 6 - coming soon...... 
+- [Day 6 - Data Cleaning with Pandas](daily-logs/day6.md)
+-  Day 7 - coming soon...... 
 
 *(This list will keep growing as I move forward!)*
 
