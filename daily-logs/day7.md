@@ -61,7 +61,7 @@ It reveals structure, patterns, missing values, duplicates, and outliers.
 
 ## Notebook
 
-My full EDA and visualization code is available in the [`day7.ipynb`](day7.ipynb) notebook.
+My full EDA and visualization code is available in the [`day7.ipynb`](day7notes.ipynb) notebook.
 
 ---
 
