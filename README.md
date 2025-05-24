@@ -28,7 +28,8 @@ I’m learning and using important Python libraries that are essential for AI/ML
 - [Day 6 - Data Cleaning with Pandas](daily-logs/day6.md)
 - [Day 7 - EDA & Data Visualization](daily-logs/day7.md)
 - [Day 8 – My first ML model: data prep, training, evaluation](daily-logs/day8.md)
--  Day 9 - coming soon...... 
+- [Day 9 – Evaluation Metrics: Beyond Accuracy](daily-logs/day8.md)
+-  Day 10 - coming soon...... 
 
 *(This list will keep growing as I move forward!)*
 
