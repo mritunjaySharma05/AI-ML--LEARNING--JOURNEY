@@ -47,6 +47,7 @@ I’m learning and using important Python libraries that are essential for AI/ML
 ## Projects
 
 Coming soon! As I complete concepts, I’ll start building mini-projects like:
+- Global Hapiness Report Analysis(Data Analysis project) 
 - Linear Regression from Scratch
 - Spam Mail Dectector 
 - Titanic Survival Prediction
