@@ -54,7 +54,7 @@ Here’s what I explored:
 
 ## Notebook
 
-Full implementation and notes are saved in [`day9.ipynb`](day9.ipynb).
+Full implementation and notes are saved in [`day9.ipynb`](day09notes.ipynb).
 
 ---
 
