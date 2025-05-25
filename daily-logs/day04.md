@@ -26,5 +26,5 @@ These operations are powerful and fast — they help prepare and manipulate data
 
 ## Notebook
 
-*Note: My detailed practice is available in the [`day4.ipynb`](day4notes.ipynb) file.*
+*Note: My detailed practice is available in the [`day4.ipynb`](day04notes.ipynb) file.*
 
