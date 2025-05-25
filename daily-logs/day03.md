@@ -36,7 +36,7 @@ NumPy is super useful and very fast for mathematical operations. I’m beginning
 
 ## Additional Resources
 
-*Note: My detailed notes and code for Day 3 are available in the [`day3.ipynb`](day3notes.ipynb) notebook.*
+*Note: My detailed notes and code for Day 3 are available in the [`day3.ipynb`](day03notes.ipynb) notebook.*
 
 ---
 
