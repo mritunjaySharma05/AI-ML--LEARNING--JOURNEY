@@ -20,10 +20,10 @@ I’m learning and using important Python libraries that are essential for AI/ML
 
 ## Daily Learning Log
 
-- [Day 1 – Basics of AI, ML & Deep Learning](daily-logs/day1.md)
-- [Day 2 – Basics of pyhton (variables,strings,lists,dictionary,loops,function](daily-logs/day2.md)
-- [Day 3 – Pyhton Recap + Numpy Basics ](daily-logs/day3.md)
-- [Day 4 - NumPy Indexing, Slicing & Operations](daily-logs/day4.md)
+- [Day 1 – Basics of AI, ML & Deep Learning](daily-logs/day01.md)
+- [Day 2 – Basics of pyhton (variables,strings,lists,dictionary,loops,function](daily-logs/day02.md)
+- [Day 3 – Pyhton Recap + Numpy Basics ](daily-logs/day03.md)
+- [Day 4 - NumPy Indexing, Slicing & Operations](daily-logs/day04.md)
 - [Day 5 - Pandas: Data Handling for ML](daily-logs/day5.md)
 - [Day 6 - Data Cleaning with Pandas](daily-logs/day6.md)
 - [Day 7 - EDA & Data Visualization](daily-logs/day7.md)
