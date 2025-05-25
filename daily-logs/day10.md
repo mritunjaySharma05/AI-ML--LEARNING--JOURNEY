@@ -50,7 +50,7 @@ This model helps us **understand decisions visually** through a tree-like struct
 
 ## Notebook
 
-Practice code and full implementation: [`day10.ipynb`](day10.ipynb)
+Practice code and full implementation: [`day10.ipynb`](day10notes.ipynb)
 
 ---
 
