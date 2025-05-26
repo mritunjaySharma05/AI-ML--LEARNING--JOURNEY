@@ -36,7 +36,7 @@ These operations helped me shape clean datasets ready for analysis or modeling.
 
 ## Notebook
 
-My full notes and code are available in the [`day6.ipynb`](day6notes.ipynb) notebook.
+My full notes and code are available in the [`day6.ipynb`](day06notes.ipynb) notebook.
 
 ---
 
