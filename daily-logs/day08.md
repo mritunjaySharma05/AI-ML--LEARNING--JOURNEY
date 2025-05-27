@@ -60,7 +60,7 @@ Today, I built my **first ML model** — from raw data to predictions — follow
 
 ## Notebook
 
-My first ML implementation is saved in [`day8.ipynb`](day8.ipynb).
+My first ML implementation is saved in [`day8.ipynb`](day08notes.ipynb).
 
 ---
 
