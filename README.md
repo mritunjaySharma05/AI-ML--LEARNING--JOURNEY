@@ -31,6 +31,7 @@ I’m learning and using important Python libraries that are essential for AI/ML
 - [Day 9 – Evaluation Metrics: Beyond Accuracy](daily-logs/day09.md)
 - [Day 10 - Using Decision Trees for Classification](daily-logs/day10.md)
 - [Day 11 – K-Nearest Neighbors (KNN) Classifier](daily-logs/day11.md)
+- [Day 12 – Support Vector Machine (SVM) Classifier](daily-logs/day12.md)
 -  Day 13 - coming soon......
 -  
 
