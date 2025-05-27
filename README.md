@@ -30,7 +30,9 @@ I’m learning and using important Python libraries that are essential for AI/ML
 - [Day 8 – My first ML model: data prep, training, evaluation](daily-logs/day8.md)
 - [Day 9 – Evaluation Metrics: Beyond Accuracy](daily-logs/day09.md)
 - [Day 10 - Using Decision Trees for Classification](daily-logs/day10.md)
--  Day 11 - coming soon...... 
+- [Day 11 – K-Nearest Neighbors (KNN) Classifier](daily-logs/day11.md)
+-  Day 13 - coming soon......
+-  
 
 *(This list will keep growing as I move forward!)*
 
