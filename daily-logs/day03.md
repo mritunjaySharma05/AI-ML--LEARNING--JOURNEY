@@ -42,4 +42,4 @@ NumPy is super useful and very fast for mathematical operations. I’m beginning
 
 ## Keywords
 
-NumPy, Python recap, arrays, reshape, zeros, ones, random, indexing
+NumPy, Python recap, arrays, reshape, zeros, ones, random, indexing 
