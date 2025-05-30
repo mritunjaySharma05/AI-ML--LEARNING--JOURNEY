@@ -65,4 +65,4 @@ My full EDA and visualization code is available in the [`day7.ipynb`](day07notes
 
 ---
 
-### #Day7 #EDA #DataVisualization #Python #Matplotlib #Seaborn #100DaysOfML #LearningInPublic
+### #Day7 #EDA #DataVisualization #Python #Matplotlib #Seaborn #100DaysOfML #LearningInPublic 
