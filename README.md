@@ -34,7 +34,8 @@ I’m learning and using important Python libraries that are essential for AI/ML
 - [Day 12 – Support Vector Machine (SVM) Classifier](daily-logs/day12.md)
 - [Day 13 – Decision Tree Classifier](daily-logs/day13.md)
 - [Day 14 – Random Forest Classifier](daily-logs/day14.md)
--  Day 15 - coming soon......
+- [Day 15 – Model Evaluation & Comparison](daily-logs/day15.md)
+-  Day 16 - coming soon......
 -  
 
 *(This list will keep growing as I move forward!)*
