@@ -35,7 +35,8 @@ I’m learning and using important Python libraries that are essential for AI/ML
 - [Day 13 – Decision Tree Classifier](daily-logs/day13.md)
 - [Day 14 – Random Forest Classifier](daily-logs/day14.md)
 - [Day 15 – Model Evaluation & Comparison](daily-logs/day15.md)
--  Day 16 - coming soon......
+- [Day 16 – Data Preprocessing: Making Raw Data Model-Ready](daily-logs/day16.md)
+-  Day 17 - coming soon......
 -  
 
 *(This list will keep growing as I move forward!)*
