@@ -18,26 +18,10 @@ I’m learning and using important Python libraries that are essential for AI/ML
 
 ---
 
-## Daily Learning Log
+## 📒 Daily Progress
 
-- [Day 1 – Basics of AI, ML & Deep Learning](daily-logs/day01.md)
-- [Day 2 – Basics of pyhton (variables,strings,lists,dictionary,loops,function](daily-logs/day02.md)
-- [Day 3 – Pyhton Recap + Numpy Basics ](daily-logs/day03.md)
-- [Day 4 - NumPy Indexing, Slicing & Operations](daily-logs/day04.md)
-- [Day 5 - Pandas: Data Handling for ML](daily-logs/day05.md)
-- [Day 6 - Data Cleaning with Pandas](daily-logs/day06.md)
-- [Day 7 - EDA & Data Visualization](daily-logs/day07.md)
-- [Day 8 – My first ML model: data prep, training, evaluation](daily-logs/day08.md)
-- [Day 9 – Evaluation Metrics: Beyond Accuracy](daily-logs/day09.md)
-- [Day 10 - Using Decision Trees for Classification](daily-logs/day10.md)
-- [Day 11 – K-Nearest Neighbors (KNN) Classifier](daily-logs/day11.md)
-- [Day 12 – Support Vector Machine (SVM) Classifier](daily-logs/day12.md)
-- [Day 13 – Decision Tree Classifier](daily-logs/day13.md)
-- [Day 14 – Random Forest Classifier](daily-logs/day14.md)
-- [Day 15 – Model Evaluation & Comparison](daily-logs/day15.md)
-- [Day 16 – Data Preprocessing: Making Raw Data Model-Ready](daily-logs/day16.md)
-- [Day 17 – Feature Engineering & Selection](daily-logs/day17.md)
--  Day 18 - coming soon......
+👉 Check the full [Daily Log](daily_logs.md)
+
 -  
 
 *(This list will keep growing as I move forward!)*
