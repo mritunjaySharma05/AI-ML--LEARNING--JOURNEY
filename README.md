@@ -22,9 +22,6 @@ I’m learning and using important Python libraries that are essential for AI/ML
 
 👉 Check the full [Daily Log](daily_logs.md)
 
--  
-
-*(This list will keep growing as I move forward!)*
 
 ---
 
