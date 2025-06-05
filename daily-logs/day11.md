@@ -37,4 +37,4 @@
 
 ## 🧠 Notebook
 
-Check full implementation here: [`day11_knn.ipynb`](day11_knn.ipynb)
+Check full implementation here: [`day11_knn.ipynb`](day11notes.ipynb)
