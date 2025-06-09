@@ -21,6 +21,7 @@ Here’s my AI/ML learning journey – day by day!
 - [Day 17 – Feature Engineering & Selection](daily-logs/day17.md)
 - [Day 18 – Cross-Validation & Model Reliabili](daily-logs/day18.md)
 - [Day 19 – Decision Tree Revisited](daily-logs/day19.md)
-- Day 20 coming soon .......
+- [Day 20 – Random Forest Revisited]
+- Day 21 coming soon .......
   
 *(This list will keep growing as I move forward!)*
